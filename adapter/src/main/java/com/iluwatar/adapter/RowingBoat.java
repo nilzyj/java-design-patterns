@@ -25,6 +25,8 @@ package com.iluwatar.adapter;
 
 /**
  * The interface expected by the client.<br> A rowing boat is rowed to move.
+ *
+ * 客户端所期望的接口。<br> A rowing boat is rowed to move.
  */
 public interface RowingBoat {
 

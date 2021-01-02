@@ -30,6 +30,8 @@ import org.slf4j.Logger;
 /**
  * Device class (adaptee in the pattern). We want to reuse this class. Fishing boat moves by
  * sailing.
+ *
+ * 设备类(模式中的被适应者). 我们想重用这个类. Fishing boat moves by sailing.
  */
 final class FishingBoat {
 
