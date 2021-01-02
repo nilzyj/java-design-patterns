@@ -29,6 +29,8 @@ import org.slf4j.Logger;
 
 /**
  * Implementation of task that need to be executed.
+ *
+ * 需要执行的任务的实现。
  */
 public final class SimpleTask extends Task {
 

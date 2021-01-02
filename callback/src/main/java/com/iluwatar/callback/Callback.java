@@ -25,6 +25,8 @@ package com.iluwatar.callback;
 
 /**
  * Callback interface.
+ *
+ * 回调接口
  */
 public interface Callback {
 

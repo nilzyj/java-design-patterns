@@ -31,7 +31,7 @@ import java.util.Optional;
 public abstract class Task {
 
   /**
-   * Execute with callback.
+   * 用回调执行
    */
   final void executeWith(Callback callback) {
     execute();
