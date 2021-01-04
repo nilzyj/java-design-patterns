@@ -60,6 +60,8 @@ import org.slf4j.LoggerFactory;
  * <p>Yet another way to implement thread safe lazily initialized Singleton can be found in
  * {@link InitializingOnDemandHolderIdiom}. However, this implementation requires at least Java 8
  * API level to work.</p>
+ *
+ * Singleton模式保证了每个Java classloader实例只能有一个现有的实例，并提供了对它的全局访问。
  */
 public class App {
 

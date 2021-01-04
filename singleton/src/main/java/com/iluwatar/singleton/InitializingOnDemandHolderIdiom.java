@@ -40,6 +40,8 @@ public final class InitializingOnDemandHolderIdiom {
 
   /**
    * Private constructor.
+   *
+   * 私有构造器
    */
   private InitializingOnDemandHolderIdiom() {
   }

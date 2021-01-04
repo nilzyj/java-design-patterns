@@ -43,6 +43,7 @@ public final class ThreadSafeDoubleCheckLocking {
    */
   private ThreadSafeDoubleCheckLocking() {
     // to prevent instantiating by Reflection call
+    // 以防止通过Reflection调用实例化
     if (flag) {
       flag = false;
     } else {
